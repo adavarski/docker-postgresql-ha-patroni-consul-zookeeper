@@ -16,7 +16,7 @@ Default PostgreSQL port exposed on `localhost:5432`. (login: _postgres/grespost_
 
 Test with DataGrip: 
 
-<img src="https://github.com/AtScaleInc/saas-dev-env/blob/master/saas/docker/postgresqlha/screens/pg-datagrip-test.png?raw=true" width="650">
+<img src="https://github.com/adavarski/docker-postgresqlha-patroni-consul/blob/main/screens/pg-datagrip-test.png?raw=true" width="650">
 
 
 Check HA:
