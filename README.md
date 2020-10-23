@@ -65,7 +65,7 @@ me=walreceiver sslmode=prefer sslcompression=0 gssencmode=prefer krbsrvname=post
 ```
 Check HAProxy:
 
-<img src="https://github.com/AtScaleInc/saas-dev-env/blob/master/saas/docker/postgresqlha/screens/haproxy-pg-master.png?raw=true" width="650">
+<img src="https://github.com/adavarski/docker-postgresqlha-patroni-consul/blob/main/screens/haproxy-pg-master.png?raw=true" width="650">
 
 
 Stop/start master
@@ -115,7 +115,7 @@ root@pg-master:/# exit
 ```
 Check HAproxy:
 
-<img src="https://github.com/AtScaleInc/saas-dev-env/blob/master/saas/docker/postgresqlha/screens/haproxy-pg-slave.png?raw=true" width="650">
+<img src="https://github.com/adavarski/docker-postgresqlha-patroni-consul/blob/main/screens/haproxy-pg-slave.png?raw=true" width="650">
 
 
 ### Note: Setup of PostgreSQL High Available using Patroni with Zookeeper cluster (3-nodes) and HAProxy 
