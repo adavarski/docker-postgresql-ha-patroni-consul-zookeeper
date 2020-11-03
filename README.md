@@ -14,9 +14,7 @@ inside the image for convenience. You can see the stats on http://localhost:7000
 
 Default PostgreSQL port exposed on `localhost:5432`. (login: _postgres/grespost_)
 
-Test with DataGrip: 
-
-<img src="https://github.com/adavarski/docker-postgresqlha-patroni-consul/blob/main/screens/pg-datagrip-test.png?raw=true" width="650">
+Test with DataGrip
 
 
 Check HA:
